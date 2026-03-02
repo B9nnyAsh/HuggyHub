@@ -13,8 +13,8 @@ My first Script Hub. Supported games are in supportedg.txt file.
 
 
 ## Supported Games and Status
-| Name  | Status |
-| ------------- | ------------- |
-| Prison Life  | 🔴|
-| Escape Tsunami For Brainrots  | 🔴|
-| Murder Mystery 2 | 🔴|
+> | Name  | Status |
+> | ------------- | ------------- |
+> | Prison Life  | 🔴|
+> | Escape Tsunami For Brainrots  | 🔴|
+> | Murder Mystery 2 | 🔴|
