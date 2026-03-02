@@ -1,5 +1,5 @@
 # HuggyHub
-My first Script Hub. Supported games are in supportedg.txt file.
+> My first Script Hub. Supported games are in supportedg.txt file.
 
 ## Important Note For Skiddies
 >
