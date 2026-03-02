@@ -16,4 +16,5 @@ My first Script Hub. Supported games are in supportedg.txt file.
 | Name  | Status |
 | ------------- | ------------- |
 | Prison Life  | 🔴 |
-| ETFB  | 🔴  |
+| Escape Tsunami For Brainrots  | 🔴 |
+| Murder Mystery 2 | 🔴 |
