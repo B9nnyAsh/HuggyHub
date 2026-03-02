@@ -13,6 +13,7 @@ My first Script Hub. Supported games are in supportedg.txt file.
 
 
 ## Supported Games and Status
+> Total: 0
 > | Name  | Status |
 > | ------------- | ------------- |
 > | Prison Life  | 🔴|
