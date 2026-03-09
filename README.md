@@ -18,4 +18,4 @@
 > | ------------- | ------------- |
 > | Prison Life  | 🔴|
 > | Escape Tsunami For Brainrots  | 🔴|
-> | Murder Mystery 2 | 🔴|
+> | Murder Mystery 2 | 🟢|
