@@ -1,5 +1,5 @@
 # HuggyHub
-> My first Script Hub. Supported games are in supportedg.txt file.
+> My first Script Hub with a key system.. Supported games are in supportedg.txt file.
 
 ## Important Note For Skiddies
 >
@@ -9,7 +9,7 @@
 ## Important Note About Executors
 >
 > [!CAUTION]
-> Please use good executors for better experience while using the script. Recommended executors: Ronix, Xeno, Solara, Delta, KRNL
+> Please use good executors for better experience while using the script. Recommended executors: Solara, Delta, KRNL, Velocity
 
 
 ## Supported Games and Status
