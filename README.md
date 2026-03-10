@@ -1,4 +1,4 @@
-# SwiftHub
+# **SwiftHub**
 > My first Script Hub with a key system.. Supported games are in supportedg.txt file.
 
 ## Important Note For Skiddies
