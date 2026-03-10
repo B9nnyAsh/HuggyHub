@@ -1,5 +1,5 @@
 -- Also works in MMV and other mm2 clones. Doesnt do a game compability check.
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vita6it/Antigravity/refs/heads/main/Utils/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/B9nnyAsh/Starry/refs/heads/main/Scripts/Library.lua"))()
 local GameName = game:GetService("MarketplaceService"):GetProductInfoAsync(game.PlaceId).Name
 
 -- Role Check
